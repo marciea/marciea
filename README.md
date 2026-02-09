@@ -8,7 +8,7 @@ I'm a undergrad cybersecurity student working on coding projects to reinforce co
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcia-tigre-934548335)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcia-t-934548335)
 
 <h3 align="left">Operating Systems:</h3>
 
