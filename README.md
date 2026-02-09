@@ -2,7 +2,7 @@
 
 **`Cybersecurity/Tech Enthusiast`**
 
-I'm a undergrad cybersecurity student working on coding projects to reinforce concepts learned through coursework and self-study. I also structure my repositories to help others who come across them learn about these topics, like [Git](https://github.com/m4rci3/InfoSecKB/tree/main/Git) or [Docker](https://github.com/m4rci3/InfoSecKB/tree/main/Docker).
+I'm a undergrad cybersecurity student working on coding projects to reinforce concepts learned through coursework and self-study. I also structure my repositories to help others who come across them learn about various topics, or other resources that may be of use to someone. 
 
 ---
 <h3 align="left">Connect with me:</h3>
